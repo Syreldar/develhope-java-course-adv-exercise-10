@@ -1,0 +1,4 @@
+interface LearningPerson
+{
+    void studyAtHome();
+}
